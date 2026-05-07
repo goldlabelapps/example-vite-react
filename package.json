@@ -8,7 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "virus:update": "yarn upgrade @goldlabelapps/virus"
+    "virus:update": "yarn upgrade @goldlabelapps/virus --latest"
   },
   "dependencies": {
     "@goldlabelapps/virus": "^1.1.1",
