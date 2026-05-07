@@ -343,10 +343,10 @@
     "@eslint/core" "^0.17.0"
     levn "^0.4.1"
 
-"@goldlabelapps/virus@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@goldlabelapps/virus/-/virus-1.1.0.tgz#6bffe2cd3de9376f51050cce6c0999c4a3acc86b"
-  integrity sha512-Yv0e1MpGQnOHnj1zvHCvetDylFrtSVo7UrdyK+jh4YBPsHO4gKw/dO2toA3ceowbVl1es3jBxrmIewpULmHaWg==
+"@goldlabelapps/virus@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@goldlabelapps/virus/-/virus-1.1.1.tgz#bde0f578e1eb3ab2fe8ae13fa3c540002dd8e174"
+  integrity sha512-BBggIkrGseGIfNkhJTMp6RtAUhIKJbajqFY9lA8tcgk+ZPoNjnVDL1oOtt9wEn4K51mqxP5jGh6a/quh+qbJbw==
 
 "@humanfs/core@^0.19.2":
   version "0.19.2"
